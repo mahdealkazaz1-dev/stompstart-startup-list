@@ -1,0 +1,44 @@
+name: Hopscotch
+tagline: Unified API gateway for over 500 AI models
+description: >-
+  Hopscotch provides a single API gateway for developers to connect with over
+  500 language and multimodal AI models from providers including OpenAI,
+  Anthropic, Google, DeepSeek and Meta. The platform lets teams configure
+  intelligent routing, manage per-key budget limits, inspect request activity,
+  and pay provider list prices with no markup.
+website: https://hopscotchlabs.ai/
+access:
+  - kind: signup
+    url: https://platform.hopscotchlabs.ai/
+  - kind: browse
+    url: https://docs.hopscotchlabs.ai/
+categories:
+  - developer-tools
+  - ai-and-agents
+stage: live
+pricing:
+  model: usage_based
+  pricing_url: https://hopscotchlabs.ai/pricing
+platforms:
+  - web
+logo:
+  path: logo.png
+  alt: Hopscotch official geometric mark
+sources:
+  - url: https://hopscotchlabs.ai/
+    title: Hopscotch official product website
+  - url: https://hopscotchlabs.ai/pricing
+    title: Hopscotch model pricing and list rates
+  - url: https://www.producthunt.com/leaderboard/daily/2026/9/29
+    title: Best of Product Hunt September 29, 2026
+launch:
+  title: Hopscotch launches on Product Hunt
+  summary: Hopscotch publicly launched its unified 500+ AI model gateway and developer platform.
+  occurred_on:
+    precision: day
+    value: "2026-09-29"
+  date_basis: effective
+  source:
+    url: https://www.producthunt.com/leaderboard/daily/2026/9/29
+    title: Best of Product Hunt September 29, 2026
+    locator: Hopscotch AI entry in the September 29 daily launch leaderboard
